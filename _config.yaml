@@ -1,7 +1,7 @@
 # site properties and page defaults
 title: Visceral Neurophysiology and Engineering Lab
 subtitle: Led by Dr. Aaron Mickle
-description: Our research focuses on neuronal control of bladder dysfunction and pain, investigating the fundamental mechanisms underlying bladder sensory function, including how sensory information is transmitted from non-neuronal cells within the bladder to sensory neurons. We also study how the central nervous system encodes this information. Our lab is dedicated to developing innovative treatments for bladder disorders such as overactive bladder, bladder pain syndrome, and bladder dysfunction following spinal cord injury. 
+description: Our research focuses on neuronal control of bladder dysfunction and pain, investigating the fundamental mechanisms underlying bladder sensory function. 
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
