@@ -8,7 +8,7 @@ aliases:
   - AD Mickle
   - A.D. Mickle
 links:
-  home-page: [https://janesmith.com](https://www.mcw.edu/departments/physiology/people/aaron-mickle-phd)
+  home-page: https://www.mcw.edu/departments/physiology/people/aaron-mickle-phd
   orcid: 0000-0002-6454-8038
 ---
 
