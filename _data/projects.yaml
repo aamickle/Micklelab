@@ -1,9 +1,9 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: sensory role of urothelial cells
+  subtitle: Unveiling the role of urothelial cell contribution to bladder sensation and pain
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  image: https://journals.physiology.org/cms/10.1152/ajprenal.00035.2023/asset/images/medium/f-00035-2023r01.png
+  link: https://pubmed.ncbi.nlm.nih.gov/37318991/
+  description: Urothelial cells play an active role in bladder physiology by responding to physical/chemical stimuli and signaling to sensory neurons and other cell types in the bladder. Numerous bladder diseases affecting millions of people, including overactive bladder, pain related to recurrent bladder infection, chemotherapeutic cystitis, and bladder pain syndrome, have been suspected to disrupt urothelial sensory signaling, leading to pathological changes to sensory signaling, including pain. While it has been accepted that urothelial cells play a role in bladder sensory function, it is unclear how these cells contribute to the sensation of filling and how it is altered under painful conditions. To unravel the role of urothelial cells in bladder nociception and sensory dysfunction, we have developed a novel mouse model that allows for direct stimulation of urothelial cells using optogenetics, light activated proteins. This project broadly focuses on functionally and molecularly identify the population of sensory neurons responding to direct urothelial stimulation of sensory nerve activity in normal and inflammatory conditions. We are using in vivo electrophysiology, fMRI and wireless implantable LEDs paired with behavior to study this question.
   repo: greenelab/lab-website-template
   tags:
     - resource
