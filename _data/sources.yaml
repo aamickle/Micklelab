@@ -14,7 +14,7 @@
     - collaboration
   repo: greenelab/meta-review
 
-- id: 10.7554/eLife.89767.3
+- id: doi:10.7554/eLife.89767.3
   image: https://iiif.elifesciences.org/lax:89767%2Felife-89767-fig1-v1.tif/full/1234,/0/default.webp
 
 - id: doi:10.1038/s41467-025-55992-x
