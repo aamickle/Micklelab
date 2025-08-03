@@ -12,33 +12,47 @@
   orcid: 0000-0002-6454-8038
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.7554/eLife.89767.3
-  title: Acute ampakines increase voiding function and coordination in a rat model
-    of SCI
+- id: doi:10.1038/s41467-025-55992-x
+  title: Liquid-based encapsulation for implantable bioelectronics across broad pH
+    environments
   authors:
-  - Sabhya Rana
-  - Firoj Alom
-  - Robert C Martinez
-  - David D Fuller
-  - Aaron D Mickle
-  publisher: eLife
-  date: '2024-03-07'
-  link: https://doi.org/g9vq9w
+  - He Sun
+  - Xiaoting Xue
+  - Gabriella L. Robilotto
+  - Xincheng Zhang
+  - ChangHee Son
+  - Xingchi Chen
+  - Yue Cao
+  - Kewang Nan
+  - Yiyuan Yang
+  - Gavin Fennell
+  - Jaewook Jung
+  - Yang Song
+  - Huijie Li
+  - Shao-Hao Lu
+  - Yizhou Liu
+  - Yi Li
+  - Weiyi Zhang
+  - Jie He
+  - Xueju Wang
+  - Yan Li
+  - Aaron D. Mickle
+  - Yi Zhang
+  publisher: Nature Communications
+  date: '2025-01-25'
+  link: https://doi.org/g9vzcn
   orcid: 0000-0002-6454-8038
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.7554/eLife.89767.2
-  title: Acute ampakines increase voiding function and coordination in a rat model
-    of SCI
+- id: doi:10.1152/ajprenal.00204.2024
+  title: Role of Local Angiotensin II Signaling in Bladder Function
   authors:
-  - Sabhya Rana
-  - Firoj Alom
-  - Robert C Martinez
-  - David D Fuller
-  - Aaron D Mickle
-  publisher: eLife Sciences Publications, Ltd
-  date: '2024-02-19'
-  link: https://doi.org/g9vq9z
+  - Hannah A. Anderson
+  - Gabriella L. Robilotto
+  - Aaron D. Mickle
+  publisher: American Journal of Physiology-Renal Physiology
+  date: '2024-09-12'
+  link: https://doi.org/g9vzcp
   orcid: 0000-0002-6454-8038
   plugin: orcid.py
   file: orcid.yaml
@@ -74,21 +88,6 @@
   orcid: 0000-0002-6454-8038
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.7554/eLife.89767.1
-  title: Acute ampakines increase voiding function and coordination in a rat model
-    of SCI
-  authors:
-  - Sabhya Rana
-  - Firoj Alom
-  - Robert C Martinez
-  - David D Fuller
-  - Aaron D Mickle
-  publisher: eLife Sciences Publications, Ltd
-  date: '2023-10-17'
-  link: https://doi.org/g9vq94
-  orcid: 0000-0002-6454-8038
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1152/ajprenal.00035.2023
   title: Optogenetic urothelial cell stimulation induces bladder contractions and
     pelvic nerve afferent firing
@@ -101,6 +100,21 @@
   publisher: American Journal of Physiology-Renal Physiology
   date: '2023-08-01'
   link: https://doi.org/g9vq95
+  orcid: 0000-0002-6454-8038
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.02.17.528980
+  title: Optogenetic urothelial cell stimulation induces bladder contractions and
+    pelvic nerve afferent firing
+  authors:
+  - Gabriella L Robilotto
+  - Olivia J Yang
+  - Firoj Alom
+  - Richard D Johnson
+  - Aaron D Mickle
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-02-19'
+  link: https://doi.org/g9vq99
   orcid: 0000-0002-6454-8038
   plugin: orcid.py
   file: orcid.yaml
@@ -118,36 +132,6 @@
   publisher: Frontiers in Neuroscience
   date: '2023-01-23'
   link: https://doi.org/g9vq97
-  orcid: 0000-0002-6454-8038
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.05.26.542339
-  title: Acute ampakines increase voiding function and coordination in a rat model
-    of SCI
-  authors:
-  - Sabhya Rana
-  - Firoj Alom
-  - Robert C Martinez
-  - David D Fuller
-  - Aaron D Mickle
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-05-28'
-  link: https://doi.org/g9vq98
-  orcid: 0000-0002-6454-8038
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.02.17.528980
-  title: Optogenetic urothelial cell stimulation induces bladder contractions and
-    pelvic nerve afferent firing
-  authors:
-  - Gabriella L Robilotto
-  - Olivia J Yang
-  - Firoj Alom
-  - Richard D Johnson
-  - Aaron D Mickle
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-02-19'
-  link: https://doi.org/g9vq99
   orcid: 0000-0002-6454-8038
   plugin: orcid.py
   file: orcid.yaml
@@ -179,19 +163,6 @@
   orcid: 0000-0002-6454-8038
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1111/luts.12365
-  title: Characterization of a method to study urodynamics and bladder nociception
-    in male and female mice
-  authors:
-  - Paulome Srivastava
-  - Henry H. Lai
-  - Aaron D. Mickle
-  publisher: 'LUTS: Lower Urinary Tract Symptoms'
-  date: '2020-11-17'
-  link: https://doi.org/g9vrbf
-  orcid: 0000-0002-6454-8038
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1101/2021.03.15.435466
   title: Open source timed pressure control hardware and software for delivery of
     air mediated distensions in animal models
@@ -203,6 +174,19 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2021-03-16'
   link: https://doi.org/g9vrbg
+  orcid: 0000-0002-6454-8038
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/luts.12365
+  title: Characterization of a method to study urodynamics and bladder nociception
+    in male and female mice
+  authors:
+  - Paulome Srivastava
+  - Henry H. Lai
+  - Aaron D. Mickle
+  publisher: 'LUTS: Lower Urinary Tract Symptoms'
+  date: '2020-11-17'
+  link: https://doi.org/g9vrbf
   orcid: 0000-0002-6454-8038
   plugin: orcid.py
   file: orcid.yaml
@@ -538,28 +522,6 @@
   orcid: 0000-0002-6454-8038
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/167841
-  title: Optogenetic silencing of primary afferents reduces evoked and ongoing bladder
-    pain
-  authors:
-  - Vijay K. Samineni
-  - Aaron D. Mickle
-  - Jangyeol Yoon
-  - Jose G. Grajales-Reyes
-  - Melanie Pullen
-  - Kaitlyn Crawford
-  - Kyung Nim Noh
-  - Graydon B. Gereau
-  - Sherri Vogt
-  - H. Henry Lai
-  - John A. Rogers
-  - Robert W. Gereau
-  publisher: Cold Spring Harbor Laboratory
-  date: '2017-08-02'
-  link: https://doi.org/gkv59r
-  orcid: 0000-0002-6454-8038
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.3390/ph9040072
   title: 'Nociceptive TRP Channels: Sensory Detectors and Transducers in Multiple
     Pain Pathologies'
@@ -760,15 +722,6 @@
   orcid: 0000-0002-6454-8038
   plugin: orcid.py
   file: orcid.yaml
-- id: issn:0016-5085
-  title: ISSN 0016-5085 (Print) | Gastroenterology | The ISSN Portal
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://portal.issn.org/resource/ISSN/0016-5085
-  orcid: 0000-0002-6454-8038
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1016/j.neuroscience.2009.05.042
   title: Altered mechanosensitive properties of vagal afferent fibers innervating
     the stomach following gastric surgery in rats
@@ -785,6 +738,15 @@
   publisher: Neuroscience
   date: '2009-09-01'
   link: https://doi.org/c4z273
+  orcid: 0000-0002-6454-8038
+  plugin: orcid.py
+  file: orcid.yaml
+- id: issn:0016-5085
+  title: ISSN 0016-5085 (Print) | Gastroenterology | The ISSN Portal
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://portal.issn.org/resource/ISSN/0016-5085
   orcid: 0000-0002-6454-8038
   plugin: orcid.py
   file: orcid.yaml
