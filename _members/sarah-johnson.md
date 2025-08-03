@@ -1,8 +1,8 @@
 ---
 name: Sarah Johnson
 image: images/photo.jpg
-description: Staff
-role: Staff
+description: Programmer
+role: Programmer
 links:
   email: sarah.johnson@gmail.com
   twitter: sarahjohnson
