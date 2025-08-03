@@ -34,7 +34,7 @@ Take a look at our publications
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/Co-culture.png"
   link="research"
   title="Our Research"
   text=text
@@ -56,7 +56,7 @@ Take a look at our growing list of projects
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/FF_20x_c5_drg_nf200-grp_zstack.tif"
   link="projects"
   title="Our Projects"
   flip=true
@@ -66,7 +66,7 @@ Take a look at our growing list of projects
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Learn more about our Lab Memebers
 
 {%
   include button.html
@@ -81,7 +81,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/2025_06_11_MCWLabGroups_007.JPG"
   link="team"
   title="Our Team"
   text=text
