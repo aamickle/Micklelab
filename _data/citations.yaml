@@ -770,7 +770,7 @@
   orcid: 0000-0002-6454-8038
   plugin: orcid.py
   file: orcid.yaml
-- id: 10.7554/eLife.89767.3
+- id: doi:10.7554/eLife.89767.3
   title: Acute ampakines increase voiding function and coordination in a rat model
     of SCI
   authors:
