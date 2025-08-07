@@ -1,4 +1,3 @@
-
 ---
 name: Firoj Alom
 image: images/people/Firoj_Alom.JPEG
