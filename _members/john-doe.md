@@ -1,10 +1,8 @@
 ---
-name: John Doe
-image: images/photo.jpg
-role: phd
+name: Zach Smith
+image: images/people/zach.JPG
+role: Staff
 group: alum
-links:
-  github: john-doe
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+I recently graduated with a bachelor’s in Biomedical Engineering from Marquette University. My background is in biomechanical engineering, and neuroscience. In my free time I enjoy exercise, skiing, community engagement, reading, and spending time with friends and family.
