@@ -1,6 +1,6 @@
 ---
 name: Bhavana Talluri
-image: images/people/Bhavana_Talluri.JPEG
+image: images/people/Bhavana_Talluri - Copy.JPEG
 role: staff
 affiliation: Medical College of Wisconsin
 
