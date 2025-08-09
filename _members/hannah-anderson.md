@@ -1,6 +1,6 @@
 ---
 name: Hannah Anderson
-image: images/people/Hannah_Anderson.JPG
+image: images/people/Hannah_Anderson - Copy.JPG
 role: phd
 links:
   orcid: 0009-0009-2893-233X
