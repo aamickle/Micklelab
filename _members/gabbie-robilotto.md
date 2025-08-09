@@ -1,6 +1,6 @@
 ---
 name: Gabbie Robilotto
-image: images/people/Gabbie_Robilotto.JPEG
+image: images/people/Gabbie_Robilotto - Copy.JPEG
 role: phd
 aliases:
   - Gabriella Robilotto
