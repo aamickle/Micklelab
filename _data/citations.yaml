@@ -785,3 +785,15 @@
   image: https://iiif.elifesciences.org/lax:89767%2Felife-89767-fig1-v1.tif/full/1234,/0/default.webp
   plugin: sources.py
   file: sources.yaml
+- id: 10.1152/ajprenal.00204.2024
+  title: Role of Local Angiotensin II Signaling in Bladder Function
+  authors:
+  - Hannah A. Anderson
+  - Gabriella L. Robilotto
+  - Aaron D. Mickle
+  publisher: American Journal of Physiology-Renal Physiology
+  date: '2024-09-12'
+  link: https://doi.org/g9vzcp
+  image: https://journals.physiology.org/cms/10.1152/ajprenal.00204.2024/asset/images/medium/ajprenal.00204.2024r01.png
+  plugin: sources.py
+  file: sources.yaml
