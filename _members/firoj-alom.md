@@ -1,6 +1,6 @@
 ---
 name: Firoj Alom
-image: images/people/Firoj_Alom.JPEG
+image: images/people/Firoj_Alom - Copy.JPEG
 role: postdoc
 links:
   orcid: 0000-0002-7498-006X
