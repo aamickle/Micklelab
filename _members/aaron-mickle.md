@@ -1,6 +1,6 @@
 ---
 name: Aaron Mickle
-image: images/Aaron_Mickle.JPEG
+image: images/people/Aaron_Mickle_square.JPEG
 role: principal-investigator
 affiliation: Medical College of Wisconsin
 aliases:
