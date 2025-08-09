@@ -1,6 +1,6 @@
 ---
 name: Bettega Lopes
-image: images/people/bettega.JPG
+image: images/people/bettega - Copy.JPG
 role: postdoc
 links:
  
