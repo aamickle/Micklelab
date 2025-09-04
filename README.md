@@ -5,6 +5,6 @@
 
   # aamickle's Website
 
-  Visit **[aamickle.github.io/Micklelab](https://aamickle.github.io/Micklelab)** 🚀
+  Visit **[micklelab.com](https://micklelab.com)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
