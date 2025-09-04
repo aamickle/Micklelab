@@ -1,1 +1,1 @@
-Sitemap: https://aamickle.github.io/Micklelab/sitemap.xml
+Sitemap: https://micklelab.com/sitemap.xml
