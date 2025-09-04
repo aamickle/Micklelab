@@ -56,7 +56,7 @@ Take a look at our growing list of projects
 
 {%
   include feature.html
-  image="images/FF_20x_c5_drg_nf200-grp_zstack.tif"
+  image="images/red-viral-drg.png"
   link="projects"
   title="Our Projects"
   flip=true
@@ -66,7 +66,7 @@ Take a look at our growing list of projects
 
 {% capture text %}
 
-Learn more about our Lab Memebers
+Learn more about our Lab Members
 
 {%
   include button.html
