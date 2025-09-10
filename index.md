@@ -1,7 +1,7 @@
 ---
 ---
 
-# Visceral Neurophysiology and Engineering Lab Website
+# Visceral Neurophysiology and Engineering Lab
 
 The Visceral Neurophysiology and Engineering Lab, led by Dr. Aaron Mickle, is based in the Department of Physiology at the Medical College of Wisconsin. Our research focuses on neuronal control of bladder dysfunction and pain. Specifically, we investigate the fundamental mechanisms underlying bladder sensory function, including how sensory information is transmitted from non-neuronal cells within the bladder to sensory neurons. Additionally, we explore how the central nervous system encodes this information. Our lab is committed to developing innovative treatments for various bladder disorders, such as overactive bladder, bladder pain syndrome, and bladder dysfunction following spinal cord injury. We approach this challenge from multiple angles, including:
 
