@@ -3,10 +3,10 @@
   group: featured
   image: https://journals.physiology.org/cms/10.1152/ajprenal.00035.2023/asset/images/medium/f-00035-2023r01.png
   link: https://pubmed.ncbi.nlm.nih.gov/37318991/
-  description: Urothelial cells play an active role in bladder physiology by responding to physical/chemical stimuli and signaling to sensory neurons and other cell types in the bladder. Numerous bladder diseases affecting millions of people, including overactive bladder, pain related to recurrent bladder infection, chemotherapeutic cystitis, and bladder pain syndrome, have been suspected to disrupt urothelial sensory signaling, leading to pathological changes to sensory signaling, including pain. While it has been accepted that urothelial cells play a role in bladder sensory function, it is unclear how these cells contribute to the sensation of filling and how it is altered under painful conditions. To unravel the role of urothelial cells in bladder nociception and sensory dysfunction, we have developed a novel mouse model that allows for direct stimulation of urothelial cells using optogenetics, light activated proteins. This project broadly focuses on functionally and molecularly identify the population of sensory neurons responding to direct urothelial stimulation of sensory nerve activity in normal and inflammatory conditions. We are using in vivo electrophysiology, fMRI and wireless implantable LEDs paired with behavior to study this question.
+  description: Urothelial cells play an active role in bladder physiology by responding to physical/chemical stimuli and signaling to sensory neurons and other cell types in the bladder. This project broadly focuses on functionally and molecularly identify the population of sensory neurons responding to direct urothelial stimulation of sensory nerve activity in normal and inflammatory conditions. 
   repo: greenelab/lab-website-template
   tags:
-    - resource
+   
 
 - title: angiotensin signaling in the bladder
   subtitle: studying the role of local angiotensin signaling in bladder function
@@ -16,7 +16,7 @@
   description: studying the role of local angiotensin signaling in bladder function
   repo: greenelab/lab-website-template
   tags:
-    - resource
+
 
 - title: technology development
   subtitle: development of technologies targeting the lower urinary tract to improve basic science and human health
@@ -25,15 +25,14 @@
   description: Our lab works closely with material, chemical, and electrical engineers to develop new tools to study the nervous system with the end goal of using these tools to study the changes that occur in these systems during and after the development of chronic pain, as well as the hopeful end goal of implementing these strategies in patients
   repo: greenelab/lab-website-template
   tags:
-    - publication
+ 
 
 - title: bladder function and spinal cord injury
   subtitle: Development of approaches to improve bladder function following spinal cord injury
   image: images/photo.jpg
   link: https://github.com/
-  description: More than 17,000 Americans suffer from spinal cord injuries yearly, and many of these patients suffer from lower urinary tract dysfunction. One of these bladder disorders is detrusor-sphincter dyssynergia, where the detrusor muscle constricts to push urine out of the bladder, and the urethral sphincters relax to allow urine to pass out the urethra, cannot coordinate their actions to produce a void. Electrical neuromodulation technologies can improve symptoms of lower urinary tract dysfunction. Still, due to the complexity of the circuit and neural systems involved, these therapies are unable to initiate a coordinated voiding contraction on-demand. We are developing an optogenetic neuromodulatory approach to target and independently control the two main neuronal systems (parasympathetic and somatic motor) that are integral to the voiding reflex. Further, we are working on a class of drugs called ampakines that we have shown can acutely improve bladder function in a model of spinal cord injury.
+  description: More than 17,000 Americans suffer from spinal cord injuries yearly, and many of these patients suffer from lower urinary tract dysfunction. We are working on multiple fronts to improve our understanding of how bladder function is affected by SCI and developing therapies to treat it. 
   repo: greenelab/lab-website-template
   tags:
-    - publication
-
+  
 
