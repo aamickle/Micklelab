@@ -57,21 +57,6 @@
   plugin: sources.py
   file: sources.yaml
   image: https://journals.physiology.org/cms/10.1152/ajprenal.00204.2024/asset/images/medium/ajprenal.00204.2024r01.png
-- id: doi:10.7554/eLife.89767
-  title: Acute ampakines increase voiding function and coordination in a rat model
-    of SCI
-  authors:
-  - Sabhya Rana
-  - Firoj Alom
-  - Robert C Martinez
-  - David D Fuller
-  - Aaron D Mickle
-  publisher: eLife
-  date: '2024-03-07'
-  link: https://doi.org/g9vq92
-  orcid: 0000-0002-6454-8038
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1186/s12894-024-01407-w
   title: 'Hypertension and urologic chronic pelvic pain syndrome: An analysis of MAPP-I
     data'
