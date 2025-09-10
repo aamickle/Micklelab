@@ -121,8 +121,8 @@
   - type: website
     link: https://journals.physiology.org/doi/full/10.1152/ajprenal.00035.2023
   tags:
-  - open science
-  - collaboration
+  - Urothelium
+  - Sensory
   repo: greenelab/meta-review
 - id: doi:10.3389/fnins.2023.1001007
   title: Evaluating the transduction efficiency of systemically delivered AAV vectors
