@@ -10,8 +10,8 @@
     - type: website
       link: https://journals.physiology.org/doi/full/10.1152/ajprenal.00035.2023
   tags:
-    - open science
-    - collaboration
+    - Urothelium
+    - Sensory
   repo: greenelab/meta-review
 
 - id: doi:10.7554/eLife.89767.3
