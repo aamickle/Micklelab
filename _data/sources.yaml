@@ -22,3 +22,13 @@
 
 - id: doi:10.3389/fnins.2023.1001007
   image: https://images-provider.frontiersin.org/api/ipx/w=410&f=webp/https://www.frontiersin.org/files/Articles/1001007/fnins-17-1001007-HTML/image_m/fnins-17-1001007-g001.jpg
+
+- id: doi:10.1002/ejp.2017
+  image: https://onlinelibrary.wiley.com/cms/asset/20532efb-1815-4046-a4ca-a3b71fd54e20/ejp2017-fig-0005-m.jpg
+
+- id: doi:10.1016/j.ohx.2022.e00271
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2468067222000165-ga1.jpg
+
+- id: doi:10.1101/2021.03.15.435466
+  remove: true
+
