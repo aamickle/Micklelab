@@ -1,6 +1,12 @@
 - id: doi:10.1152/ajprenal.00035.2023
   type: paper
-  description: Urothelial cells play a sensory role in bladder function. However, it has been particularly challenging to study this communication as both sensory neurons and urothelial cells express similar sensory receptors. Here we demonstrate using an optogenetic technique, that specific urothelial stimulation alone resulted in bladder contractions. This approach will have a long-lasting impact on how we study urothelial-to-sensory neuron communication and the changes that occur under disease conditions
+  description: Urothelial cells play a sensory role in bladder function. However,
+    it has been particularly challenging to study this communication as both
+    sensory neurons and urothelial cells express similar sensory receptors. Here
+    we demonstrate using an optogenetic technique, that specific urothelial
+    stimulation alone resulted in bladder contractions. This approach will have
+    a long-lasting impact on how we study urothelial-to-sensory neuron
+    communication and the changes that occur under disease conditions
   date: 2023-07-11
   image: https://journals.physiology.org/cms/10.1152/ajprenal.00035.2023/asset/images/medium/f-00035-2023r01.png
   buttons:
@@ -13,22 +19,16 @@
     - Urothelium
     - Sensory
   repo: greenelab/meta-review
-
 - id: doi:10.7554/eLife.89767.3
   image: https://iiif.elifesciences.org/lax:89767%2Felife-89767-fig1-v1.tif/full/1234,/0/default.webp
-  
 - id: doi:10.1152/ajprenal.00204.2024
   image: https://journals.physiology.org/cms/10.1152/ajprenal.00204.2024/asset/images/medium/ajprenal.00204.2024r01.png
-
 - id: doi:10.3389/fnins.2023.1001007
   image: https://images-provider.frontiersin.org/api/ipx/w=410&f=webp/https://www.frontiersin.org/files/Articles/1001007/fnins-17-1001007-HTML/image_m/fnins-17-1001007-g001.jpg
-
 - id: doi:10.1002/ejp.2017
   image: https://onlinelibrary.wiley.com/cms/asset/20532efb-1815-4046-a4ca-a3b71fd54e20/ejp2017-fig-0005-m.jpg
-
 - id: doi:10.1016/j.ohx.2022.e00271
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2468067222000165-ga1.jpg
-
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2468067222000165-ga1.jpg
 - id: doi:10.1101/2021.03.15.435466
   remove: true
 
