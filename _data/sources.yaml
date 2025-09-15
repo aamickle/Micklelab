@@ -1,3 +1,4 @@
+---
 - id: doi:10.1152/ajprenal.00035.2023
   type: paper
   description: Urothelial cells play a sensory role in bladder function. However,
@@ -23,6 +24,10 @@
   image: https://iiif.elifesciences.org/lax:89767%2Felife-89767-fig1-v1.tif/full/1234,/0/default.webp
 - id: doi:10.1152/ajprenal.00204.2024
   image: https://journals.physiology.org/cms/10.1152/ajprenal.00204.2024/asset/images/medium/ajprenal.00204.2024r01.png
+- id: doi:10.1038/s41467-025-55992-x
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-025-55992-x/MediaObjects/41467_2025_55992_Fig1_HTML.png?as=webp
+- id: doi:10.7554/eLife.89767
+  remove: true
 - id: doi:10.3389/fnins.2023.1001007
   image: https://images-provider.frontiersin.org/api/ipx/w=410&f=webp/https://www.frontiersin.org/files/Articles/1001007/fnins-17-1001007-HTML/image_m/fnins-17-1001007-g001.jpg
 - id: doi:10.1002/ejp.2017
@@ -31,4 +36,3 @@
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2468067222000165-ga1.jpg
 - id: doi:10.1101/2021.03.15.435466
   remove: true
-
