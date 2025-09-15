@@ -36,3 +36,5 @@
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2468067222000165-ga1.jpg
 - id: doi:10.1101/2021.03.15.435466
   remove: true
+- id: doi:doi:10.1038/s41467-025-55992-x
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/32c3/11762702/a9513c402236/41467_2025_55992_Fig1_HTML.jpg
