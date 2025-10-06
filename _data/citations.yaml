@@ -1,14 +1,16 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1101/2025.01.28.635145
-  title: Local urothelial cell-driven detrusor contractions
+- id: doi:10.1038/s41598-025-18216-2
+  title: Contractions of ex-vivo mouse bladder driven by activation of channelrhodopsin-2
+    expressed in urothelial cells
   authors:
   - Firoj Alom
   - Kyle Joseph Ratcliff
-  - Aaron D Mickle
-  publisher: Cold Spring Harbor Laboratory
-  date: '2025-02-01'
-  link: https://doi.org/g9vq9v
+  - Bhavana Talluri
+  - Aaron D. Mickle
+  publisher: Scientific Reports
+  date: '2025-10-03'
+  link: https://doi.org/g95wqw
   orcid: 0000-0002-6454-8038
   plugin: orcid.py
   file: orcid.yaml
