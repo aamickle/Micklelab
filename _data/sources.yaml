@@ -38,3 +38,5 @@
   remove: true
 - id: doi:doi:10.1038/s41467-025-55992-x
   image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/32c3/11762702/a9513c402236/41467_2025_55992_Fig1_HTML.jpg
+- id: doi:10.1038/s41598-025-18216-2
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-025-18216-2/MediaObjects/41598_2025_18216_Fig7_HTML.png?as=webp
