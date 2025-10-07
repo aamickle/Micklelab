@@ -47,7 +47,7 @@
   orcid: 0000-0002-6454-8038
   plugin: sources.py
   file: sources.yaml
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-025-55992-x/MediaObjects/41467_2025_55992_Fig1_HTML.png?as=webp
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/32c3/11762702/a9513c402236/41467_2025_55992_Fig1_HTML.jpg
 - id: doi:10.1152/ajprenal.00204.2024
   title: Role of Local Angiotensin II Signaling in Bladder Function
   authors:
@@ -737,37 +737,5 @@
   date: '2024-03-07'
   link: https://doi.org/g9vq9w
   image: https://iiif.elifesciences.org/lax:89767%2Felife-89767-fig1-v1.tif/full/1234,/0/default.webp
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:doi:10.1038/s41467-025-55992-x
-  title: Liquid-based encapsulation for implantable bioelectronics across broad pH
-    environments
-  authors:
-  - He Sun
-  - Xiaoting Xue
-  - Gabriella L. Robilotto
-  - Xincheng Zhang
-  - ChangHee Son
-  - Xingchi Chen
-  - Yue Cao
-  - Kewang Nan
-  - Yiyuan Yang
-  - Gavin Fennell
-  - Jaewook Jung
-  - Yang Song
-  - Huijie Li
-  - Shao-Hao Lu
-  - Yizhou Liu
-  - Yi Li
-  - Weiyi Zhang
-  - Jie He
-  - Xueju Wang
-  - Yan Li
-  - Aaron D. Mickle
-  - Yi Zhang
-  publisher: Nature Communications
-  date: '2025-01-25'
-  link: https://doi.org/g9vzcn
-  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/32c3/11762702/a9513c402236/41467_2025_55992_Fig1_HTML.jpg
   plugin: sources.py
   file: sources.yaml
