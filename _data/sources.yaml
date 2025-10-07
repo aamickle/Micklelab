@@ -24,8 +24,6 @@
   image: https://iiif.elifesciences.org/lax:89767%2Felife-89767-fig1-v1.tif/full/1234,/0/default.webp
 - id: doi:10.1152/ajprenal.00204.2024
   image: https://journals.physiology.org/cms/10.1152/ajprenal.00204.2024/asset/images/medium/ajprenal.00204.2024r01.png
-- id: doi:10.1038/s41467-025-55992-x
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-025-55992-x/MediaObjects/41467_2025_55992_Fig1_HTML.png?as=webp
 - id: doi:10.7554/eLife.89767
   remove: true
 - id: doi:10.3389/fnins.2023.1001007
@@ -36,7 +34,7 @@
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2468067222000165-ga1.jpg
 - id: doi:10.1101/2021.03.15.435466
   remove: true
-- id: doi:doi:10.1038/s41467-025-55992-x
+- id: doi:10.1038/s41467-025-55992-x
   image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/32c3/11762702/a9513c402236/41467_2025_55992_Fig1_HTML.jpg
 - id: doi:10.1038/s41598-025-18216-2
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-025-18216-2/MediaObjects/41598_2025_18216_Fig7_HTML.png?as=webp
