@@ -56,7 +56,7 @@ Take a look at our growing list of projects
 
 {%
   include feature.html
-  image="images/red-viral-drg.png"
+  image="images/F_E_2.png"
   link="projects"
   title="Our Projects"
   flip=true
