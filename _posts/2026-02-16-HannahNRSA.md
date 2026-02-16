@@ -1,4 +1,3 @@
-
 ---
 title: Hannah Anderson was awarded an NIH NRSA!
 image: images/Hannah_Anderson - copy.JPG
