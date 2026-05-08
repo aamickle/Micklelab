@@ -15,6 +15,18 @@
   plugin: sources.py
   file: sources.yaml
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-025-18216-2/MediaObjects/41598_2025_18216_Fig7_HTML.png?as=webp
+- id: doi:10.1101/2025.01.28.635145
+  title: Local urothelial cell-driven detrusor contractions
+  authors:
+  - Firoj Alom
+  - Kyle Joseph Ratcliff
+  - Aaron D Mickle
+  publisher: openRxiv
+  date: '2025-02-01'
+  link: https://doi.org/g9vq9v
+  orcid: 0000-0002-6454-8038
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1038/s41467-025-55992-x
   title: Liquid-based encapsulation for implantable bioelectronics across broad pH
     environments
