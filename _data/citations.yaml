@@ -1,5 +1,28 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:https://doi.org/10.1016/j.eng.2026.03.020
+  title: A Stretchable Optogenetic Probe for Wireless Control of Bladder Nociception
+  authors:
+  - Janghoon Joo
+  - Hannah A. Anderson
+  - Wooseok Kim
+  - Shane H. Priester
+  - Bogeun Kim
+  - Firoj Alom
+  - Doyoung Kim
+  - Bhavana Talluri
+  - Hee Kyu Lee
+  - Joohoon Kang
+  - Geumbee Lee
+  - Jae-Young Yoo
+  - Aaron D. Mickle
+  - Sang Min Won
+  publisher: Engineering
+  date: '2026-04-01'
+  link: https://doi.org/hb3fqk
+  orcid: 0000-0002-6454-8038
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1038/s41598-025-18216-2
   title: Contractions of ex-vivo mouse bladder driven by activation of channelrhodopsin-2
     expressed in urothelial cells
@@ -15,18 +38,6 @@
   plugin: sources.py
   file: sources.yaml
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-025-18216-2/MediaObjects/41598_2025_18216_Fig7_HTML.png?as=webp
-- id: doi:10.1101/2025.01.28.635145
-  title: Local urothelial cell-driven detrusor contractions
-  authors:
-  - Firoj Alom
-  - Kyle Joseph Ratcliff
-  - Aaron D Mickle
-  publisher: openRxiv
-  date: '2025-02-01'
-  link: https://doi.org/g9vq9v
-  orcid: 0000-0002-6454-8038
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1038/s41467-025-55992-x
   title: Liquid-based encapsulation for implantable bioelectronics across broad pH
     environments
@@ -749,5 +760,28 @@
   date: '2024-03-07'
   link: https://doi.org/g9vq9w
   image: https://iiif.elifesciences.org/lax:89767%2Felife-89767-fig1-v1.tif/full/1234,/0/default.webp
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:/10.1016/j.eng.2026.03.020
+  title: A Stretchable Optogenetic Probe for Wireless Control of Bladder Nociception
+  authors:
+  - Janghoon Joo
+  - Hannah A. Anderson
+  - Wooseok Kim
+  - Shane H. Priester
+  - Bogeun Kim
+  - Firoj Alom
+  - Doyoung Kim
+  - Bhavana Talluri
+  - Hee Kyu Lee
+  - Joohoon Kang
+  - Geumbee Lee
+  - Jae-Young Yoo
+  - Aaron D. Mickle
+  - Sang Min Won
+  publisher: Engineering
+  date: '2026-04-01'
+  link: https://doi.org//10.1016/j.eng.2026.03.020
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S209580992600192X-gr1.jpg
   plugin: sources.py
   file: sources.yaml
