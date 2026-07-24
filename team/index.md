@@ -11,13 +11,13 @@ Learn more about the team by clicking on their picture!
 {% include section.html %}
 
 ## PI
-{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
+{% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
 
 ## Postdocs
 {% include list.html data="members" component="portrait" filter="role == 'postdoc'" %}
 
 ## Students
-{% include list.html data="members" component="portrait" filter="role == 'student'" %}
+{% include list.html data="members" component="portrait" filter="role == 'phd'" %}
 
 ## Staff
 {% include list.html data="members" component="portrait" filter="role == 'staff'" %}
