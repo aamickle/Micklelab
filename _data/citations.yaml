@@ -73,18 +73,34 @@
   file: sources.yaml
   image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/32c3/11762702/a9513c402236/41467_2025_55992_Fig1_HTML.jpg
 - id: doi:10.1152/ajprenal.00204.2024
-  title: Role of Local Angiotensin II Signaling in Bladder Function
+  title: Role of local angiotensin II signaling in bladder function
   authors:
   - Hannah A. Anderson
   - Gabriella L. Robilotto
   - Aaron D. Mickle
   publisher: American Journal of Physiology-Renal Physiology
-  date: '2024-09-12'
+  date: '2024-11-01'
   link: https://doi.org/g9vzcp
   orcid: 0000-0002-6454-8038
   plugin: sources.py
   file: sources.yaml
   image: https://journals.physiology.org/cms/10.1152/ajprenal.00204.2024/asset/images/medium/ajprenal.00204.2024r01.png
+- id: doi:10.7554/eLife.89767.3
+  title: Acute ampakines increase voiding function and coordination in a rat model
+    of SCI
+  authors:
+  - Sabhya Rana
+  - Firoj Alom
+  - Robert C Martinez
+  - David D Fuller
+  - Aaron D Mickle
+  publisher: eLife
+  date: '2024-03-07'
+  link: https://doi.org/g9vq9w
+  orcid: 0000-0002-6454-8038
+  plugin: sources.py
+  file: sources.yaml
+  image: https://iiif.elifesciences.org/lax:89767%2Felife-89767-fig1-v1.tif/full/1234,/0/default.webp
 - id: doi:10.7554/eLife.89767.2
   title: Acute ampakines increase voiding function and coordination in a rat model
     of SCI
@@ -114,6 +130,21 @@
   publisher: BMC Urology
   date: '2024-01-28'
   link: https://doi.org/g9vq93
+  orcid: 0000-0002-6454-8038
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.7554/eLife.89767.1
+  title: Acute ampakines increase voiding function and coordination in a rat model
+    of SCI
+  authors:
+  - Sabhya Rana
+  - Firoj Alom
+  - Robert C Martinez
+  - David D Fuller
+  - Aaron D Mickle
+  publisher: eLife Sciences Publications, Ltd
+  date: '2023-10-17'
+  link: https://doi.org/g9vq94
   orcid: 0000-0002-6454-8038
   plugin: orcid.py
   file: orcid.yaml
@@ -763,18 +794,3 @@
   orcid: 0000-0002-6454-8038
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.7554/eLife.89767.3
-  title: Acute ampakines increase voiding function and coordination in a rat model
-    of SCI
-  authors:
-  - Sabhya Rana
-  - Firoj Alom
-  - Robert C Martinez
-  - David D Fuller
-  - Aaron D Mickle
-  publisher: eLife
-  date: '2024-03-07'
-  link: https://doi.org/g9vq9w
-  image: https://iiif.elifesciences.org/lax:89767%2Felife-89767-fig1-v1.tif/full/1234,/0/default.webp
-  plugin: sources.py
-  file: sources.yaml
